@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADAS Lite: Lane Detection + Object Detection + Warning System
 
 A lightweight Advanced Driver Assistance System (ADAS) perception pipeline that:
@@ -91,3 +92,6 @@ To generate a fresh one: `python make_test_video.py`
 
 ## Tech stack
 Python, OpenCV, NumPy, Ultralytics YOLOv8, FastAPI, Jinja2
+=======
+# ADAS-Vision-System
+>>>>>>> 67bf565b07d70308882cdfea0a22c58d40c08cd0
